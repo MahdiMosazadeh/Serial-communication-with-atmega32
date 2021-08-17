@@ -2,7 +2,7 @@
  * serial_connection.c
  *
  * Created: 6/2/2019 2:27:57 PM
- * Author: pers
+ * Author: Mahdi mosazadeh
  */
 
 #include <stdio.h>
